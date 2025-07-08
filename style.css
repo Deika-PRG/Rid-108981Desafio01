@@ -1,3 +1,30 @@
-*{
-    background-color: rgb(0, 0, 0);
+#cabecalho{
+    padding: 40px 20px;
+    margin: 0 auto;
+    background-color: #303030;
+    color: #FFFFFF;
+    font-family: "INTER";
+    text-align: justify;
+}
+#TituloCabecalho{
+    font-size: 50PX;
+    margin: 72px 62px 0px;
+    font-weight: 500;
+
+}
+#SubTituloCabecalho{
+    font-size: 17PX;
+    margin: 0px 62px 50px;
+}
+#centroDados{
+    
+    background-color: #f9f9f9;
+    color: #000000;
+    font-family: "inter";
+}
+.itens{
+    display: flex;
+    justify-content: center;
+    
+    gap: 20px;
 }
