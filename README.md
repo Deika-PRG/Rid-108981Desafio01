@@ -7,3 +7,6 @@ Primeiros passos:
     Referenciar JS, CSS no nosso arquivo HTML
     
     Realizar teste p/ ver se os arquivos subiram para o github. 
+
+Segundos passos:
+    Construindo estrutura HTML;
