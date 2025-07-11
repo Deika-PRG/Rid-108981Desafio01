@@ -88,7 +88,7 @@ button{
 }
 button:hover{
     transform: translatey(-7px);
-    transition-duration: 0,5s;
+    transition-duration: 0,9s;
     background-color: #f1982bd7;
     box-shadow: 0px 15px 10px #c5c5c567;
 }
