@@ -2,7 +2,10 @@
 
 Este é o projeto de desenvolvimento do modulo base do curso de tecnologia Escola DNC, um escritório de arquitetura com foco em empreendimentos residenciais e comerciais. este projeto destaca a tradição, experiência e qualidade dos serviços prestados pela empresa desde 2002.
 
+Links:
+
 https://rid-108981desafio01.netlify.app
+https://docs.google.com/spreadsheets/d/1wu4AcmQqpAVk2ozwPGmKgAXwltQHmFV_3dZxAjACkS8/edit?gid=0#gid=0
 
 Visão Geral
 
