@@ -39,7 +39,7 @@
     
 }
 #missao{
-    
+    justify-content: center;
     font-family: "inter";
     text-align: justify;
     margin: 60px 75px 20px;
